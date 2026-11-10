@@ -4,6 +4,14 @@ A Python landing simulator for the Moon, Mars and Earth, with manual flight, a p
 
 The project began with PPO and reward-shaping experiments in Gymnasium's LunarLander. It developed into a custom environment with a fullscreen Pygame interface and a guidance controller that can take over during manual flight.
 
+## Simulation previews
+
+<img width="1899" height="1188" alt="Screenshot 2026-11-10 203127" src="https://github.com/user-attachments/assets/5ecd971f-e629-4a6a-af20-1134bfe833da" />
+<img width="1907" height="1188" alt="Screenshot 2026-11-10 203239" src="https://github.com/user-attachments/assets/b1ab34c1-03d9-4cc8-9a2e-7116afdc9943" />
+<img width="1897" height="1188" alt="Screenshot 2026-11-10 203416" src="https://github.com/user-attachments/assets/fae8c5e5-cd42-47a2-bfb8-0882a98a7b8d" />
+
+
+
 ## Features
 
 - Three worlds with different gravity, atmospheric density and wind settings.
