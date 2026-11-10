@@ -10,6 +10,16 @@ The project began with PPO and reward-shaping experiments in Gymnasium's LunarLa
 <img width="1907" height="1188" alt="Screenshot 2026-11-10 203239" src="https://github.com/user-attachments/assets/b1ab34c1-03d9-4cc8-9a2e-7116afdc9943" />
 <img width="1897" height="1188" alt="Screenshot 2026-11-10 203416" src="https://github.com/user-attachments/assets/fae8c5e5-cd42-47a2-bfb8-0882a98a7b8d" />
 
+## Video demonstration
+
+Manual flight, guidance takeover and pad landing on Mars.
+
+
+
+https://github.com/user-attachments/assets/86303ede-7abb-4628-9616-7fb3af3d4f5d
+
+
+
 
 
 ## Features
